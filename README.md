@@ -1,7 +1,7 @@
 # V2X Packet Congestion Dataset
  
 
-[Aly Sabri Abdalla](https://alysabriabdalla.owlstown.net/), [Ahmad Al-Kabbany], [Ehab F. Badran], [Vuk Marojevic]
+[Aly Sabri Abdalla](https://alysabriabdalla.owlstown.net/), Ahmad Al-Kabbany, Ehab F. Badran, Vuk Marojevic
 
 ## Abstract
 Vehicle-to-everything (V2X) has proven effective as
