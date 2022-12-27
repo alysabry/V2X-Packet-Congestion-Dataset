@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.xg filter=lfs diff=lfs merge=lfs -text
+congAction/ filter=lfs diff=lfs merge=lfs -text
+congActionDiff/ filter=lfs diff=lfs merge=lfs -text
